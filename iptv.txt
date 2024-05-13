@@ -39,7 +39,6 @@ CCTV-Sport2_(1080p),https://node1.olelive.com:6443/sport/9658a28d08203fd65a22f5a
 山西卫视,http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
 河北卫视,http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8
 河北卫视,http://183.195.235.162/hljbuv52.live.bestvcdn.com.cn/001/live/program/live/hbwshd8m/8000000/mnf.m3u8
-安徽卫视,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
 国外#genre#
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
