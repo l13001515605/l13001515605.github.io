@@ -1,4 +1,5 @@
 央视#genre#
+
 凤凰卫视中文台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 CCTV-1综合_(1080p),https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
@@ -19,7 +20,9 @@ CCTV-15_音乐_(1080p),http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.c
 CCTV-16_奥林匹克_(1080p),https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV_Sport1_(1080p),https://node1.olelive.com:6443/sport/48011fb6a8769b510ac25affd015b13e/hls.m3u8
 CCTV-Sport2_(1080p),https://node1.olelive.com:6443/sport/9658a28d08203fd65a22f5a8974142c7/hls.m3u8
+
 卫视#genre#
+
 湖南卫视_(1080p),https://node1.olelive.com:6443/live/HUNANHD/hls.m3u8
 湖南卫视_(1080p),http://tvbox.netsite.cc/proxy/823956387/823956387.m3u8
 辽宁卫视_(1080p),https://node1.olelive.com:6443/live/LIAONINGHD/hls.m3u8
@@ -33,14 +36,21 @@ CCTV-Sport2_(1080p),https://node1.olelive.com:6443/sport/9658a28d08203fd65a22f5a
 浙江卫视_(1080p),http://tvbox.netsite.cc/proxy/1562317673/1562317673.m3u8
 山东卫视_(1080p),http://tvbox.netsite.cc/proxy/1400078770/1400078770.m3u8
 山东卫视_(1080p),http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
-四川卫视_(1080p),http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000295003.m3u8
-四川卫视_(1080p),http://tvbox.netsite.cc/proxy/1364123916/1364123916.m3u8
-黑龙江卫视_(1080p),http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000293903.m3u8
-黑龙江卫视_(1080p),http://tvbox.netsite.cc/proxy/797978954/797978954.m3u8
+四川卫视,http://tvbox.netsite.cc/proxy/1364123916/1364123916.m3u8
+黑龙江卫视,http://tvbox.netsite.cc/proxy/797978954/797978954.m3u8
 山西卫视,http://tvbox.netsite.cc/proxy/825435414/825435414.m3u8
 河北卫视,http://tvbox.netsite.cc/proxy/866823714/866823714.m3u8
 陕西卫视,http://tvbox.netsite.cc/proxy/917851306/917851306.m3u8
+贵州卫视,http://tvbox.netsite.cc/proxy/344811278/344811278.m3u8
+云南卫视,http://tvbox.netsite.cc/proxy/1057712184/1057712184.m3u8
+广西卫视,http://tvbox.netsite.cc/proxy/1407270894/1407270894.m3u8
+安徽卫视,http://tvbox.netsite.cc/proxy/1453839032/1453839032.m3u8
+江西卫视,http://tvbox.netsite.cc/proxy/1507547400/1507547400.m3u8
+湖北卫视,http://tvbox.netsite.cc/proxy/1513765070/1513765070.m3u8
+东南卫视,http://tvbox.netsite.cc/proxy/605886267/605886267.m3u8
+
 国外#genre#
+
 CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 BBC News,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&checkedby:iptvcat.com
